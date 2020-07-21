@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi👋, I'm Jeetendra
 <!--
 **JSGund/JSGund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m currently working as Full Stack Developer(.NET Core, Angular)
+
+## Get in touch
+- [C# Corner](https://www.c-sharpcorner.com/members/jeetendra-gund) 
+- [LinkedIn](https://www.linkedin.com/in/jeetendra-gund/)
+- [Twitter](https://twitter.com/Jeet_csharp)
