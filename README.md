@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently working as Full Stack Developer(.NET Core, Angular)
+- 🔭 I’m currently working as Full Stack Developer(.NET Core, Angular)
+- 🌱 I’m currently learning Python, Azure, AWS
 
 ## Get in touch
 - [C# Corner](https://www.c-sharpcorner.com/members/jeetendra-gund) 
