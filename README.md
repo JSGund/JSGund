@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as Full Stack Developer(.NET Core, Angular)
-- 🌱 I’m currently learning Python, Azure, AWS
+- 🌱 I’m currently learning Python, Azure
+- 👯 I’m looking to collaborate on open source project
 
 ## Get in touch
 - [C# Corner](https://www.c-sharpcorner.com/members/jeetendra-gund) 
