@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as Full Stack Developer(.NET Core, Angular)
 - 🌱 I’m currently learning Python, Azure
-- 👯 I’m looking to collaborate on open source project
+- 👯 I’m looking to collaborate on open source projects
 
 ## Get in touch
 - [C# Corner](https://www.c-sharpcorner.com/members/jeetendra-gund) 
